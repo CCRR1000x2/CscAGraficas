@@ -1,0 +1,22 @@
+﻿Entrada de datos (desde Arduino Uno (COM4));;;;;;;;;;
+Los datos procedentes del origen de datos actual aparecerán abajo según se reciban.;;;;;;;;;;
+Datos actuales;;;;;;;;;;
+TIME;CH1;CH2;CH3;CH4;CH5;CH6;CH7;CH8;CH9;CH10
+21:08:37.66;ACELERACION=4.94;TIEMPO=0.46;VELOCIDAD=0.99;;;;;;;
+Información histórica ;;;;;;;;;;
+TIME;CH1;CH2;CH3;CH4;CH5;CH6;CH7;CH8;CH9;CH10
+21:08:37.66;ACELERACION=4.94;TIEMPO=0.46;VELOCIDAD=0.99;;;;;;;
+21:08:31.59;ACELERACION=4.94;TIEMPO=0.46;VELOCIDAD=0.99;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
