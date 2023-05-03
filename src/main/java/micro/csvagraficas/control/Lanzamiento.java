@@ -8,7 +8,14 @@ public class Lanzamiento {
     private double distancia, tiempo, velocidad, aceleracion;
 
     public Lanzamiento(double distancia, double tiempo, double velocidad, double aceleracion) {
-        this.distancia = distancia;
+        this.distancia = 0.5;
+        this.tiempo = tiempo;
+        this.velocidad = velocidad;
+        this.aceleracion = aceleracion;
+    }
+    
+    public Lanzamiento(double tiempo, double velocidad, double aceleracion) {
+        this.distancia = 0.5;
         this.tiempo = tiempo;
         this.velocidad = velocidad;
         this.aceleracion = aceleracion;

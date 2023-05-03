@@ -77,7 +77,7 @@ public class ControlArchivo {
         }
 
         if (d>0 || t>0 || v>0 || a>0) {
-            return new Lanzamiento(d,t,v,a);
+            return new Lanzamiento(t,v,a);
         }
         return null;
     }
